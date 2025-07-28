@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Jaime Mercado
+
+### 🔭 I’m currently working on ...
+
+#### Chop It Up
+https://brits-and-pieces.vercel.app/
+
+Scan and split receipt with friends.
+> Targeting mobile version.
+
+#### split trip gas
+https://split-trip-gas-between-friends.vercel.app/
+
+Create a trip with friends, add destinations and calculate the gas split.
+> WIP
 
 <!--
 **s4lly/s4lly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
